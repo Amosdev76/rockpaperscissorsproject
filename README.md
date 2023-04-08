@@ -7,3 +7,7 @@ tech stack:
 html
 
 vanilla javascript
+
+you can find the game online here:
+
+https://rpaperscissors.netlify.app/
